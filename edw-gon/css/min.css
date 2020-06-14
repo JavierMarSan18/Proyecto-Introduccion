@@ -1,4 +1,9 @@
+
+
 /*Hoja de estilos*/
+.titulo_juego{
+    margin-top: 100px;
+}
 #entorno {
     display: block;
     margin: 0 auto;

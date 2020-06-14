@@ -9,7 +9,7 @@ body{
 
 .content{
     background-color: rgb(118, 118, 216);
-    margin:  200px auto;
+    margin:  270px auto;
     width: 30%;
     padding: 2%;
     color: white;
@@ -23,7 +23,7 @@ body{
     font-size: 50px;
     border-style: none;
     position: absolute;
-    top: 120px;
+    top: 200px;
     left: 555px;
 
 }
